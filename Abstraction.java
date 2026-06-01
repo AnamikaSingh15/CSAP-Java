@@ -23,7 +23,7 @@ class updatedToyta extends Toyta
         System.out.println("Flying");
     }
 }
-public class main
+public class Abstraction
 {
     public static void main(String args[])
     {
